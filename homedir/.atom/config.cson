@@ -1,0 +1,45 @@
+"*":
+  "activate-power-mode":
+    plugins:
+      playAudio: true
+      screenShake: true
+  "atom-beautify":
+    general:
+      _analyticsUserId: "48a06f6f-aff8-45da-b552-4dfa43a2c371"
+  core:
+    telemetryConsent: "limited"
+  editor:
+    fontFamily: "Fira Code, Menlo, Consolas, DejaVu Sans Mono, monospace"
+    scrollPastEnd: true
+    showIndentGuide: true
+    showInvisibles: true
+  "exception-reporting":
+    userId: "8c85dea7-c86d-4225-b344-8aa90e132be7"
+  "flow-ide": {}
+  "linter-eslint":
+    fixOnSave: true
+  "linter-ui-default": {}
+  "markdown-preview":
+    useGitHubStyle: true
+  minimap:
+    plugins:
+      cursorline: true
+      cursorlineDecorationsZIndex: 0
+      "find-and-replace": true
+      "find-and-replaceDecorationsZIndex": 0
+      "git-diff": true
+      "git-diffDecorationsZIndex": 0
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+      linter: true
+      linterDecorationsZIndex: 0
+      selection: true
+      selectionDecorationsZIndex: 0
+  "prettier-atom":
+    formatOnSaveOptions:
+      showInStatusBar: true
+    useEslint: true
+  "tree-view":
+    autoReveal: true
+  welcome:
+    showOnStartup: false
