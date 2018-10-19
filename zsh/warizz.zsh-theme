@@ -1,4 +1,4 @@
-date_time="%{$fg_bold[yellow]%}%W %{$reset_color%}%T"
+date_time="%{$fg[yellow]%}%W%{$reset_color%} %{$fg_bold[yellow]%}%T%{$reset_color%}"
 user="%{$fg_bold[green]%}%n%{$reset_color%}"
 dir="%{$fg[cyan]%}%c%{$reset_color%}"
 ret_status="%(?:%{$fg_bold[green]%}➜:%{$fg_bold[red]%}➜)"
