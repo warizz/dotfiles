@@ -26,6 +26,7 @@ cp homedir/.vimrc ~
 
 echo_install_text "zsh 🐚"
 brew install zsh
+cp homedir/.zshrc ~
 
 echo_install_text "Oh My Zsh 🐚"
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
